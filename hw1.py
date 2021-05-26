@@ -8,5 +8,10 @@ star (17)
 print()
 star(5)
 
+hw: create new file: define data structure: learn to Module
+
+studfents to class to grade to school
+data structure
+
 
 #

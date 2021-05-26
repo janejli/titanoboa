@@ -1,7 +1,9 @@
-def print_hi(name):
-    # name="Anton"
-    print (f'Hello {name}')
+class Person:
+  def __init__(self, name, age):
+    self.name = name
+    self.age = age
 
+p1 = Person("John", 36)
 
-if __name__ == '__main__':
-    print_hi('Pycharm')
+print(p1.name)
+print(p1.age)
